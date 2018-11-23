@@ -1,0 +1,40 @@
+#fundo1{
+    background: #292339;
+    margin-left: 2px;
+    margin-right: auto;
+    width: auto;
+    height: 550px;
+
+}
+
+#fundo2{
+    background: #352845;
+    height: 200px;
+    margin-top: 15px;
+    
+    
+}
+
+.border-right{
+    border-right: 2px solid black !important;
+}
+
+.text-tam1{
+    font-size: 45px;
+    
+    
+}
+.text-tam2{
+    font-size: 25px;
+    
+    
+}
+.text-tam3{
+    font-size: 45px;
+    
+    
+}.text-tam4{
+    font-size: 25px;
+    
+    
+}
