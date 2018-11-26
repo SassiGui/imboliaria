@@ -1,16 +1,17 @@
 #fundo1{
     background: #292339;
-    margin-left: 2px;
-    margin-right: auto;
+    
     width: auto;
-    height: 550px;
+    height: 1200px;
 
 }
 
 #fundo2{
     background: #352845;
-    height: 200px;
+    height: 600px;
     margin-top: 15px;
+    border: solid 1px;
+    border-color: black;
     
     
 }
@@ -20,21 +21,82 @@
 }
 
 .text-tam1{
-    font-size: 45px;
-    
+    font-size: 30px;
+    color: white;
+    margin-top: 80px;
+    padding-top: 70px;
+    border-right: solid 3px;
+    border-right-color: black;
+    text-align: center;
+    font-family: helvetica;
     
 }
 .text-tam2{
-    font-size: 25px;
+    font-size: 25px;   
+    color: white;
+    margin-top: 125px;
+    font-family: helvetica;
     
     
 }
 .text-tam3{
-    font-size: 45px;
+    font-size: 30px;
+    color: white;
+    margin-top: 10px;
+    padding-top: 100px;
+    border-right: solid 3px;
+    border-right-color: black;
+    font-family: helvetica;
+    
     
     
 }.text-tam4{
     font-size: 25px;
+    color: white;
+    margin: auto;
+    margin-top: 90px;
+    font-family: helvetica;
+   
     
     
+}
+
+#icon1{
+    font-size: 110px;
+    color: black;
+    margin: 50px auto;
+    margin-top: 110px;
+    margin-left: 150px;
+    
+    
+    
+}
+
+
+#icon2{
+    font-size: 110px;
+    color: black;
+    margin-top: 70px;
+    margin-left: 150px;
+    
+    
+ 
+}
+
+#linha{
+    color: aqua;
+    
+}
+
+#botao1{
+    margin: 5px 0;
+    margin-left: 20px;
+    background-color: white;
+    color: black;
+}
+#botao2{
+    margin: 5px 0;
+    margin-left: 20px;
+    background-color: white;
+    color: black;
 }
